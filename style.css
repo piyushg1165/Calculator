@@ -40,7 +40,7 @@ body {
 .buttons button {
   padding: 10px;
   border-radius: 6px;
-  border: none;
+  border: 1px solid black;
   font-size: 20px;
   cursor: pointer;
   background-color: #eee;
